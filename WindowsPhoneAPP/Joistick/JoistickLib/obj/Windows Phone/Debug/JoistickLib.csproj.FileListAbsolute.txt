@@ -1,0 +1,12 @@
+C:\Users\Andrea\Desktop\Joistick\Joistick\JoistickLib\bin\Windows Phone\Debug\JoistickLib.dll
+C:\Users\Andrea\Desktop\Joistick\Joistick\JoistickLib\bin\Windows Phone\Debug\JoistickLib.pdb
+C:\Users\Andrea\Desktop\Joistick\Joistick\JoistickLib\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrea\Desktop\Joistick\Joistick\JoistickLib\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Andrea\Desktop\Joistick\Joistick\JoistickLib\obj\Windows Phone\Debug\JoistickLib.dll
+C:\Users\Andrea\Desktop\Joistick\Joistick\JoistickLib\obj\Windows Phone\Debug\JoistickLib.pdb
+C:\Users\Andrea\Desktop\Progetti\Macchinino\Macchinino V3\Joistick\Joistick\JoistickLib\bin\Windows Phone\Debug\JoistickLib.dll
+C:\Users\Andrea\Desktop\Progetti\Macchinino\Macchinino V3\Joistick\Joistick\JoistickLib\bin\Windows Phone\Debug\JoistickLib.pdb
+C:\Users\Andrea\Desktop\Progetti\Macchinino\Macchinino V3\Joistick\Joistick\JoistickLib\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Andrea\Desktop\Progetti\Macchinino\Macchinino V3\Joistick\Joistick\JoistickLib\obj\Windows Phone\Debug\JoistickLib.dll
+C:\Users\Andrea\Desktop\Progetti\Macchinino\Macchinino V3\Joistick\Joistick\JoistickLib\obj\Windows Phone\Debug\JoistickLib.pdb
+C:\Users\andrea\Desktop\Progetti\Macchinino\Macchinino V3\Joistick\Joistick\JoistickLib\obj\Windows Phone\Debug\JoistickLib.csprojResolveAssemblyReference.cache

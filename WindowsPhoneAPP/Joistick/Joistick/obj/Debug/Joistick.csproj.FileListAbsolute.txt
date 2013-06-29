@@ -1,0 +1,36 @@
+C:\Users\Andrea\Desktop\Joistick\Joistick\Joistick\Bin\Debug\ApplicationIcon.png
+C:\Users\Andrea\Desktop\Joistick\Joistick\Joistick\Bin\Debug\Background.png
+C:\Users\Andrea\Desktop\Joistick\Joistick\Joistick\Bin\Debug\Joistick.dll
+C:\Users\Andrea\Desktop\Joistick\Joistick\Joistick\Bin\Debug\Joistick.pdb
+C:\Users\Andrea\Desktop\Joistick\Joistick\Joistick\Bin\Debug\AppManifest.xaml
+C:\Users\Andrea\Desktop\Joistick\Joistick\Joistick\Bin\Debug\Joistick.xap
+C:\Users\Andrea\Desktop\Joistick\Joistick\Joistick\Bin\Debug\JoistickLib.dll
+C:\Users\Andrea\Desktop\Joistick\Joistick\Joistick\Bin\Debug\JoistickLib.pdb
+C:\Users\Andrea\Desktop\Joistick\Joistick\Joistick\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrea\Desktop\Joistick\Joistick\Joistick\obj\Debug\App.g.i.cs
+C:\Users\Andrea\Desktop\Joistick\Joistick\Joistick\obj\Debug\MainPage.g.i.cs
+C:\Users\Andrea\Desktop\Joistick\Joistick\Joistick\obj\Debug\Joistick.g.resources
+C:\Users\Andrea\Desktop\Joistick\Joistick\Joistick\obj\Debug\Joistick.dll
+C:\Users\Andrea\Desktop\Joistick\Joistick\Joistick\obj\Debug\Joistick.pdb
+C:\Users\Andrea\Desktop\Joistick\Joistick\Joistick\obj\Debug\XapCacheFile.xml
+C:\Users\Andrea\Desktop\Joistick\Joistick\Joistick\obj\Debug\PaginaImpostazioni.g.i.cs
+C:\Users\Andrea\Desktop\Joistick\Joistick\Joistick\obj\Debug\Accelerometro.g.i.cs
+C:\Users\Andrea\Desktop\Joistick\Joistick\Joistick\obj\Debug\Canvas.g.i.cs
+C:\Users\Andrea\Desktop\Progetti\Macchinino\Macchinino V3\Joistick\Joistick\Joistick\Bin\Debug\ApplicationIcon.png
+C:\Users\Andrea\Desktop\Progetti\Macchinino\Macchinino V3\Joistick\Joistick\Joistick\Bin\Debug\Background.png
+C:\Users\Andrea\Desktop\Progetti\Macchinino\Macchinino V3\Joistick\Joistick\Joistick\Bin\Debug\Joistick.dll
+C:\Users\Andrea\Desktop\Progetti\Macchinino\Macchinino V3\Joistick\Joistick\Joistick\Bin\Debug\Joistick.pdb
+C:\Users\Andrea\Desktop\Progetti\Macchinino\Macchinino V3\Joistick\Joistick\Joistick\Bin\Debug\AppManifest.xaml
+C:\Users\Andrea\Desktop\Progetti\Macchinino\Macchinino V3\Joistick\Joistick\Joistick\Bin\Debug\Joistick.xap
+C:\Users\Andrea\Desktop\Progetti\Macchinino\Macchinino V3\Joistick\Joistick\Joistick\Bin\Debug\JoistickLib.dll
+C:\Users\Andrea\Desktop\Progetti\Macchinino\Macchinino V3\Joistick\Joistick\Joistick\Bin\Debug\JoistickLib.pdb
+C:\Users\Andrea\Desktop\Progetti\Macchinino\Macchinino V3\Joistick\Joistick\Joistick\obj\Debug\Joistick.g.resources
+C:\Users\Andrea\Desktop\Progetti\Macchinino\Macchinino V3\Joistick\Joistick\Joistick\obj\Debug\Joistick.dll
+C:\Users\Andrea\Desktop\Progetti\Macchinino\Macchinino V3\Joistick\Joistick\Joistick\obj\Debug\Joistick.pdb
+C:\Users\Andrea\Desktop\Progetti\Macchinino\Macchinino V3\Joistick\Joistick\Joistick\obj\Debug\XapCacheFile.xml
+C:\Users\andrea\Desktop\Progetti\Macchinino\Macchinino V3\Joistick\Joistick\Joistick\obj\Debug\Joistick.csprojResolveAssemblyReference.cache
+C:\Users\andrea\Desktop\Progetti\Macchinino\Macchinino V3\Joistick\Joistick\Joistick\obj\Debug\App.g.cs
+C:\Users\andrea\Desktop\Progetti\Macchinino\Macchinino V3\Joistick\Joistick\Joistick\obj\Debug\Accelerometro.g.cs
+C:\Users\andrea\Desktop\Progetti\Macchinino\Macchinino V3\Joistick\Joistick\Joistick\obj\Debug\Canvas.g.cs
+C:\Users\andrea\Desktop\Progetti\Macchinino\Macchinino V3\Joistick\Joistick\Joistick\obj\Debug\MainPage.g.cs
+C:\Users\andrea\Desktop\Progetti\Macchinino\Macchinino V3\Joistick\Joistick\Joistick\obj\Debug\PaginaImpostazioni.g.cs

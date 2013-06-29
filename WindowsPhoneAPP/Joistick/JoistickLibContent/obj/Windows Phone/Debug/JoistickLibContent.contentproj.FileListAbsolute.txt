@@ -1,0 +1,2 @@
+C:\Users\Andrea\Desktop\Joistick\Joistick\JoistickLibContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\andrea\Desktop\Progetti\Macchinino\Macchinino V3\Joistick\Joistick\JoistickLibContent\obj\Windows Phone\Debug\JoistickLibContent.contentprojResolveAssemblyReference.cache

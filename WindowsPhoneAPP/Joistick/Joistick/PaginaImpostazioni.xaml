@@ -1,0 +1,45 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="Joistick.PaginaImpostazioni"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Landscape" Orientation="Landscape"
+    mc:Ignorable="d" d:DesignHeight="480" d:DesignWidth="728"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot è la griglia radice in cui viene inserito tutto il contenuto della pagina-->
+    <Grid x:Name="LayoutRoot" Background="#FFD0EFEF">
+        <!--TitlePanel contiene il nome dell'applicazione e il titolo della pagina-->
+        <StackPanel x:Name="TitlePanel" Margin="12,17,547,463"></StackPanel>
+        <TextBlock x:Name="ApplicationTitle" Text="IMPOSTAZIONI" Style="{StaticResource PhoneTextNormalStyle}" Margin="12,12,437,415" FontSize="40" Foreground="Black" />
+        <RadioButton Content="Joistick" Height="72" HorizontalAlignment="Left" Margin="20,205,0,0" Name="RadioJoi" VerticalAlignment="Top" Background="#BF18D198" Foreground="Black" />
+        <RadioButton Background="#BF18D198" Content="Accelerometro" Foreground="Black" Height="72" HorizontalAlignment="Left" Margin="20,145,0,0" Name="RadioAcc" VerticalAlignment="Top" IsChecked="True" />
+        <TextBlock Height="68" HorizontalAlignment="Left" Margin="20,97,0,0" Name="textBlock1" Text="Scegli se guidare con l'accelerometro oppure con il joistick" VerticalAlignment="Top" Foreground="Black" Width="331" TextWrapping="Wrap" />
+        <Border BorderBrush="#FF009393" BorderThickness="4" Height="211" HorizontalAlignment="Left" Margin="12,79,0,0" Name="border1" VerticalAlignment="Top" Width="355" />
+        <TextBlock Foreground="Black" Height="44" HorizontalAlignment="Left" Margin="410,83,0,0" Name="textBlock2" Text="Indirizzo Ip" TextWrapping="Wrap" VerticalAlignment="Top" Width="153" FontSize="28" />
+        <TextBox Height="63" HorizontalAlignment="Left" Margin="398,153,0,0" Name="TextIp" Text="192.168.2.20" VerticalAlignment="Top" Width="203" FontSize="22" />
+        <Button Content="Salva" Height="72" HorizontalAlignment="Left" Margin="539,396,0,0" Name="BottoneSalva" VerticalAlignment="Top" Width="160" Click="BottoneSalva_Click" Background="#FF40C1A8"></Button>
+        <TextBlock Height="30" HorizontalAlignment="Left" Margin="410,131,0,0" Name="textBlock3" Text="Ip macchinino" VerticalAlignment="Top" Foreground="Black" />
+        <Border BorderBrush="#FF009393" BorderThickness="4" Height="211" HorizontalAlignment="Left" Margin="398,79,0,0" Name="border2" VerticalAlignment="Top" Width="301" Background="{x:Null}"></Border>
+        <!--ContentPanel - inserire ulteriore contenuto qui-->
+    </Grid>
+ 
+    <!--Codice di esempio che illustra l'utilizzo di ApplicationBar-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button1.png" Text="Pulsante 1"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button2.png" Text="Pulsante 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="Voce di menu 1"/>
+                <shell:ApplicationBarMenuItem Text="Voce di menu 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+
+</phone:PhoneApplicationPage>

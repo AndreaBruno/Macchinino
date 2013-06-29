@@ -1,0 +1,34 @@
+C:\Users\Andrea\Desktop\Joistick3\Joistick3\bin\Debug\Joistick3.exe
+C:\Users\Andrea\Desktop\Joistick3\Joistick3\bin\Debug\Joistick3.pdb
+C:\Users\Andrea\Desktop\Joistick3\Joistick3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrea\Desktop\Joistick3\Joistick3\obj\x86\Debug\Joistick3.Form1.resources
+C:\Users\Andrea\Desktop\Joistick3\Joistick3\obj\x86\Debug\Joistick3.Properties.Resources.resources
+C:\Users\Andrea\Desktop\Joistick3\Joistick3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Andrea\Desktop\Joistick3\Joistick3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Andrea\Desktop\Joistick3\Joistick3\obj\x86\Debug\Joistick3.exe
+C:\Users\Andrea\Desktop\Joistick3\Joistick3\obj\x86\Debug\Joistick3.pdb
+C:\Users\Andrea\Desktop\Macchinino V1\JoistickPC\Joistick3\obj\x86\Debug\Joistick3.exe
+C:\Users\Andrea\Desktop\Macchinino V1\JoistickPC\Joistick3\obj\x86\Debug\Joistick3.pdb
+C:\Users\Andrea\Desktop\Macchinino V1\JoistickPC\Joistick3\bin\Debug\Joistick3.exe
+C:\Users\Andrea\Desktop\Macchinino V1\JoistickPC\Joistick3\bin\Debug\Joistick3.pdb
+C:\Users\Andrea\Desktop\Macchinino V1\JoistickPC\Joistick3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Andrea\Desktop\Macchinino V1\JoistickPC\Joistick3\obj\x86\Debug\Joistick3.Form1.resources
+C:\Users\Andrea\Desktop\Macchinino V1\JoistickPC\Joistick3\obj\x86\Debug\Joistick3.Properties.Resources.resources
+C:\Users\Andrea\Desktop\Macchinino V1\JoistickPC\Joistick3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Andrea\Desktop\Macchinino V1\JoistickPC\Joistick3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\andrea\Desktop\Progetti\Macchinino\Macchinino V1\JoistickPC\Joistick3\obj\x86\Debug\Joistick3.exe
+C:\Users\andrea\Desktop\Progetti\Macchinino\Macchinino V1\JoistickPC\Joistick3\obj\x86\Debug\Joistick3.pdb
+C:\Users\andrea\Desktop\Progetti\Macchinino\Macchinino V1\JoistickPC\Joistick3\bin\Debug\Joistick3.exe
+C:\Users\andrea\Desktop\Progetti\Macchinino\Macchinino V1\JoistickPC\Joistick3\bin\Debug\Joistick3.pdb
+C:\Users\andrea\Desktop\Progetti\Macchinino\Macchinino V1\JoistickPC\Joistick3\obj\x86\Debug\Joistick3.csprojResolveAssemblyReference.cache
+C:\Users\andrea\Desktop\Progetti\Macchinino\Macchinino V1\JoistickPC\Joistick3\obj\x86\Debug\Joistick3.Form1.resources
+C:\Users\andrea\Desktop\Progetti\Macchinino\Macchinino V1\JoistickPC\Joistick3\obj\x86\Debug\Joistick3.Properties.Resources.resources
+C:\Users\andrea\Desktop\Progetti\Macchinino\Macchinino V1\JoistickPC\Joistick3\obj\x86\Debug\Joistick3.csproj.GenerateResource.Cache
+C:\Users\andrea\Desktop\Joy_PC_UDP\Joistick3\obj\x86\Debug\Joistick3.exe
+C:\Users\andrea\Desktop\Joy_PC_UDP\Joistick3\obj\x86\Debug\Joistick3.pdb
+C:\Users\andrea\Desktop\Joy_PC_UDP\Joistick3\bin\Debug\Joistick3.exe
+C:\Users\andrea\Desktop\Joy_PC_UDP\Joistick3\bin\Debug\Joistick3.pdb
+C:\Users\andrea\Desktop\Joy_PC_UDP\Joistick3\obj\x86\Debug\Joistick3.csprojResolveAssemblyReference.cache
+C:\Users\andrea\Desktop\Joy_PC_UDP\Joistick3\obj\x86\Debug\Joistick3.Form1.resources
+C:\Users\andrea\Desktop\Joy_PC_UDP\Joistick3\obj\x86\Debug\Joistick3.Properties.Resources.resources
+C:\Users\andrea\Desktop\Joy_PC_UDP\Joistick3\obj\x86\Debug\Joistick3.csproj.GenerateResource.Cache
