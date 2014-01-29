@@ -112,7 +112,9 @@ namespace Joistick3
             }
             else Richiesta += "5";
 
-           // Colora();
+ 
+
+            Colora();
 
             label1.Text= conn.Send(Richiesta);
 

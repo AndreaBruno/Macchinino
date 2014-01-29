@@ -32,3 +32,11 @@ C:\Users\andrea\Desktop\Joy_PC_UDP\Joistick3\obj\x86\Debug\Joistick3.csprojResol
 C:\Users\andrea\Desktop\Joy_PC_UDP\Joistick3\obj\x86\Debug\Joistick3.Form1.resources
 C:\Users\andrea\Desktop\Joy_PC_UDP\Joistick3\obj\x86\Debug\Joistick3.Properties.Resources.resources
 C:\Users\andrea\Desktop\Joy_PC_UDP\Joistick3\obj\x86\Debug\Joistick3.csproj.GenerateResource.Cache
+C:\Users\Vial\Desktop\Joy_PC_UDP\Joistick3\obj\x86\Debug\Joistick3.exe
+C:\Users\Vial\Desktop\Joy_PC_UDP\Joistick3\obj\x86\Debug\Joistick3.pdb
+C:\Users\Vial\Desktop\Joy_PC_UDP\Joistick3\bin\Debug\Joistick3.exe
+C:\Users\Vial\Desktop\Joy_PC_UDP\Joistick3\bin\Debug\Joistick3.pdb
+C:\Users\Vial\Desktop\Joy_PC_UDP\Joistick3\obj\x86\Debug\Joistick3.csprojResolveAssemblyReference.cache
+C:\Users\Vial\Desktop\Joy_PC_UDP\Joistick3\obj\x86\Debug\Joistick3.Form1.resources
+C:\Users\Vial\Desktop\Joy_PC_UDP\Joistick3\obj\x86\Debug\Joistick3.Properties.Resources.resources
+C:\Users\Vial\Desktop\Joy_PC_UDP\Joistick3\obj\x86\Debug\Joistick3.csproj.GenerateResource.Cache

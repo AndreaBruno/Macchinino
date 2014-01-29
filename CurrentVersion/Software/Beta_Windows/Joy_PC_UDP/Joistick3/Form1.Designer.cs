@@ -66,7 +66,7 @@
             // 
             // timer1
             // 
-            this.timer1.Interval = 90;
+            this.timer1.Interval = 50;
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
             // BoxAvanti
